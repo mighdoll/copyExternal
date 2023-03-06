@@ -1,0 +1,9 @@
+{
+  "name": "copy-external-test",
+  "type": "module",
+  "devDependencies": {
+    "@webgpu/types": "^0.1.27",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
